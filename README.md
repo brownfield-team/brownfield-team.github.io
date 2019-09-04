@@ -6,6 +6,13 @@ Collaborative Research: Exploring Brownfield Programming Assignments in Undergra
 
 * <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915196&HistoricalAwards=false>
 
+## PIs:
+
+| Christopher Hundhausen | Washington State University |
+| Adesola Adesope        | Washington State University |
+| Adam Carter            | Humboldt State University |
+| Phill Conrad           | University of California, Santa Barbara |
+
 ## Abstract
 
 This project aims to serve the national interest by helping undergraduate computer science students develop the soft skills needed for successful careers in software development. The most common type of software development project is called a Brownfield project, in which a software solution is developed within an existing software system. In a Brownfield project, developers modify, debug, refine, and expand an existing code base that they may not have been originally involved in writing. Although most modern software design projects are Brownfield projects, undergraduate computer science curricula focus almost exclusively on teaching students to write code from scratch. This emphasis on "design from scratch" leads to graduates who lack key soft skills required in the software profession today. These skills include the ability to plan, reflect on, and direct the programming process; the ability to locate, assess, and apply needed information; and the ability to ask and answer questions in team settings. This project aims to involve instructors, students, education experts, and professional software developers in designing Brownfield programming assignments and teaching strategies that will help undergraduates in computer science courses gain these skills. The project includes a series of rigorous research studies that will provide insights into the educational effectiveness of this educational approach. The findings from these studies will inform efforts to integrate Brownfield projects into undergraduate STEM education at other colleges or universities and in other STEM fields. 
