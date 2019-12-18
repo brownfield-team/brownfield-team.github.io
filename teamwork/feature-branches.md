@@ -27,3 +27,26 @@ However, for real world software projects, it is more common to have many progra
 code base.
 
 To support this use case, `git` provides for multiple <em>branches</em> and GitHub provides a feature called <em>pull requests</em>.
+
+# The feature-branch / pull request work flow, briefly summarized.
+
+In this workflow, each time you want to work on adding a feature, or fixing a bug, you:
+
+* First create a new branch, usually off a "fresh copy of master"
+* You then make all of your changes to that branch, and that branch only.
+* You make individual commits to this branch, early and often.
+  * If possible, try to do the bug fix, or feature addition over multiple commits
+  * Break up the work into small increments, where possible, each one being a version that compiles and moves closer to the goal
+  * Each commit message should be meaningful and describe the work done in that commit.
+* When all finished, you "rebase on master" (described below) 
+  * This step integrates any changes that have been made to master in the meantime into your branch.
+  * This doesn't not prevent, but it can help to simplify dealing with so-called "merge conflicts"
+* Finally, you do a "pull request" to the master branch; this is done on the GitHub website.
+  * This step indicates that you are requesting the manager of the project (typically your instructor, or someone they have 
+    designated, such as a teaching assistant, or group leader) to merge your code into the master branch.
+  * At this step, it is typical to perform one or more code reviews; GitHub has features to support this.
+  * You may be asked to make revisions before your pull request is accepted.
+* When the pull request is accepted, you are ready to start a new feature branch for your next bug fix or feature request.
+
+# TODO: More detailed description of the steps above.
+
