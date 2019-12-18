@@ -18,7 +18,7 @@ The typical work cycle is as follows:
 * To start, you clone a repo from GitHub with <tt>git clone</tt> <i>repo-url</i>
 * Then, each time you want to make a change, you use these steps:
    * <tt>git add</tt> <em>files...</em>
-   * <tt>git commit -m <em>"commit message"</em>
+   * <tt>git commit -m</tt> <em>"commit message"</em>
    * <tt>git push origin master</tt>
 
 This is fine for beginners, and when there is only one individual programmer (or perhaps a pair working together) contributing changes to a repo.
