@@ -8,6 +8,8 @@ Collaborative Research: Exploring Brownfield Programming Assignments in Undergra
 
 ## PIs:
 
+| Name | Institution |
+|------|-------------|
 | Christopher Hundhausen | Washington State University |
 | Adesola Adesope        | Washington State University |
 | Adam Carter            | Humboldt State University |
