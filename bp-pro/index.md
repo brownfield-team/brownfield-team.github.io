@@ -15,6 +15,17 @@ It helps automate:
 
 Currently, only partner instructors enrolled in the NSF Brownfield project.
 It is possible that we may open up usage to other instructors in the future.
+Contact Phill Conrad (phtcon@ucsb.edu) to sign up.
+
+# Tutorial Materials
+
+| Topic | Slide Deck | Video |
+|-------|------------|-------|
+| Setting up a New Course | [slides]() |  Coming soon | 
+| Setting up Teams | [slides]() |  Coming soon | 
+| Adding a Slack Workspace | [slides]() |  Coming soon | 
+| Data Insights | Coming soon |  Coming soon | 
+
 
 # Is BP-Pro open source?  Can I host my own instance?
 
