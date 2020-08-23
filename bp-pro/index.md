@@ -23,7 +23,7 @@ Contact Phill Conrad (phtcon@ucsb.edu) to sign up.
 |-------|------------|-------|
 | Setting up a New Course | [slides](https://docs.google.com/presentation/d/1KbNZROA-Y3Ybz2c18RyDedCOYiUaZkiOA42AHIWeEUQ/edit?usp=sharing) |  [video](https://www.youtube.com/watch?v=El6E9aOJuag) | 
 | Uploading a Course Roster | [slides](https://docs.google.com/presentation/d/1KbNZROA-Y3Ybz2c18RyDedCOYiUaZkiOA42AHIWeEUQ/edit?usp=sharing) |  [video](https://www.youtube.com/watch?v=5gJEFuCIFyU) | 
-| Setting up Teams | [slides](https://docs.google.com/presentation/d/1B83b2RJpEu_xqIKNLvjrbVlHQdZei9eIsvp2DYJ1Gk0/edit?usp=sharing) |   [video]()  | 
+| Setting up Teams | [slides](https://docs.google.com/presentation/d/1B83b2RJpEu_xqIKNLvjrbVlHQdZei9eIsvp2DYJ1Gk0/edit?usp=sharing) |   Coming soon  | 
 | Adding a Slack Workspace | [slides](https://docs.google.com/presentation/d/1AZESrHQYOUVPMxW3tL1IxeBYml0BOffCnFl2MPGWloE/edit?usp=sharing) |  Coming soon | 
 | Data Insights | Coming soon |  Coming soon | 
 
